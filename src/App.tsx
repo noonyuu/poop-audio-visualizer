@@ -1,8 +1,9 @@
+import VoiceWaveVisualizer from "./components/VoiceWaveVisualizer";
 
 function App() {
   return (
     <div className="App">
-      <div className=""></div>
+      <VoiceWaveVisualizer />
     </div>
   );
 }
